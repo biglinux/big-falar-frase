@@ -1,0 +1,4 @@
+#!/bin/bash
+
+killall -9 aplay
+lianetts "$(sed -n $p_falar' p;' ~/.config/falar-frase/frases.txt)"

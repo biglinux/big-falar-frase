@@ -1,0 +1,3 @@
+#!/bin/bash
+
+bigbashview /usr/share/bigbashview/bcc/apps/falar-frase/falar.sh.htm -i /usr/share/bigbashview/bcc/apps/falar-frase/icone.png --window_state=maximized

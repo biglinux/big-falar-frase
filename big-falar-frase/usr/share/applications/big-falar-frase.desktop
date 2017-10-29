@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Speak sentence
+Name[pt]=Falar frase
+Name[pt_BR]=Falar frase
+Name[es]=Hablar frase
+Exec=big-falar-frase
+Icon=face-smile
+Type=Application
+StartupNotify=true
+Categories=Player;
+MimeType=text/plain;

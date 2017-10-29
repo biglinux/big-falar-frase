@@ -1,0 +1,10 @@
+Package: big-falar-frase
+Version: 2.0.0-0big3
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Installed-Size:80
+Depends: bigbashview
+Section: admin
+Priority: optional
+Description: Pacote bastante especifico para acessibilidade, necessita da instalação do lianetts, porem nao esta nas dependencias pois o mesmo geralmente esta em formato .tar.gz
+
