@@ -1,9 +1,9 @@
-ee26afc104ed7b7b15cae1c9d0240398  DEBIAN/control
+6bf0dc042041a9006b4aeb7c16d27fa0  DEBIAN/control
 d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
-62d5e3821ee1907f4dd7e97056d583dd  usr/share/bigbashview/bcc/apps/falar-frase/falar.sh.htm
-dce4d03c43fb7712e786a9355e2f11b0  usr/share/bigbashview/bcc/apps/falar-frase/description.sh.htm
-86358168ce5552ab711e772413927937  usr/share/bigbashview/bcc/apps/falar-frase/icone.png
-404d3417730416b5804a43a8c09fce54  usr/share/bigbashview/bcc/apps/falar-frase/icon.png
-de985e184537aa462efc368b621de86b  usr/share/bigbashview/bcc/apps/falar-frase/falar.run
-62fc41b2064d7ed6ca62f4309eeb2deb  usr/share/applications/big-falar-frase.desktop
 b9a4a31498a9099c0656921236c53a10  usr/bin/big-falar-frase
+62fc41b2064d7ed6ca62f4309eeb2deb  usr/share/applications/big-falar-frase.desktop
+dce4d03c43fb7712e786a9355e2f11b0  usr/share/bigbashview/bcc/apps/falar-frase/description.sh.htm
+62d5e3821ee1907f4dd7e97056d583dd  usr/share/bigbashview/bcc/apps/falar-frase/falar.sh.htm
+404d3417730416b5804a43a8c09fce54  usr/share/bigbashview/bcc/apps/falar-frase/icon.png
+86358168ce5552ab711e772413927937  usr/share/bigbashview/bcc/apps/falar-frase/icone.png
+fe7dc8536255aac878690e951587aaf6  usr/share/bigbashview/bcc/apps/falar-frase/falar.run
